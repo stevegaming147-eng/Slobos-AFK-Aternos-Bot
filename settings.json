@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gallaxymc.aternos.me",
-    "port": 13242,
+    "ip": "chaosmc.mcsh.io",
+    "port": 24280,
     "version": "1.21.11",
     "try-creative": false
   },
