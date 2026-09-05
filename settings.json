@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "WELLCOME",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "leto-01.flarelax.com",
-    "port": 26468,
-    "version": "1.21.11",
+    "ip": "quatramc.aternos.me",
+    "port": 39672,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
