@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "gallaxymc.aternos.me",
-    "port": 13242,
+    "ip": "leto-01.flarelax.com",
+    "port": 26468,
     "version": "1.21.11",
     "try-creative": false
   },
