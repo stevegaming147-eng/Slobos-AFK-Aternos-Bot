@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "chaosmc.mcsh.io",
-    "port": 24280,
+    "ip": "gallaxymc.mcsh.io",
+    "port": 13242,
     "version": "1.21.11",
     "try-creative": false
   },
