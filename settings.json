@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "orangemc.mcsh.io",
-    "port": 11373,
+    "ip": "orangemc.pixelforge.gg",
+    "port": 26068,
     "version": "1.21.11",
     "try-creative": false
   },
