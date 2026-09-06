@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "orangemc.mcsh.io",
-    "port": 39672,
+    "port": 11373,
     "version": "1.21.11",
     "try-creative": false
   },
