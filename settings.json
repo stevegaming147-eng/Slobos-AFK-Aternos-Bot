@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "verity0____0",
+    "username": "jettism",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "dinonetwork.aternos.me",
+    "ip": "orangemc.mcsh.io",
     "port": 39672,
     "version": "1.21.11",
     "try-creative": false
