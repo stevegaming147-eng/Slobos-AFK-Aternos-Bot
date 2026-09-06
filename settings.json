@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "WELLCOME",
+    "username": "verity0____0",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "quatramc.aternos.me",
-    "port": 39672,
-    "version": "1.21.4",
+    "ip": "orangemc.mcsh.io",
+    "port": 11373,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
