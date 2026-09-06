@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "orangemc.pixelforge.gg",
+    "ip": "orangemc.pixelforge.gg:26068",
     "port":  26068,
     "version": "1.21.11",
     "try-creative": false
